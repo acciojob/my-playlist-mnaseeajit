@@ -6,11 +6,11 @@ body{
 	background-color:rgb(204,204,204);
 }
 a{
-	text-decoration : none;
+	text-decoration-line : none;
 	color : black;
 }
 
-#id1{
+li{
 	list-style-type : none;
 }
 #div1{
